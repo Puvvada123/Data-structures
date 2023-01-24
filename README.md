@@ -15,7 +15,8 @@
 [Experiment 5 source code](https://github.com/Puvvada123/Data-structures/blob/main/5.Factorial%20with%20recursion)
 ![image](https://user-images.githubusercontent.com/113325192/214253484-6b64459c-92bb-436c-b6c7-6d2b6c4425bb.png)
 ## Experiment 6
-[Experiment 6 source code](
+[Experiment 6 source code](https://github.com/Puvvada123/Data-structures/blob/main/6.fibnocci%20with%20recursion)
+![image](https://user-images.githubusercontent.com/113325192/214255040-bcea45c4-06f4-458d-914c-744fabb0a600.png)
 
 ## Experiment 7
 [Experiment 7 source code](
