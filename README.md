@@ -27,11 +27,11 @@
 [Experiment 8 source code](https://github.com/Puvvada123/Data-structures/blob/main/8.%20Linear%20search)
 ![image](https://user-images.githubusercontent.com/113325192/214508720-0389addc-d21e-4657-8b4d-c7817ff5ceed.png)
 ## Experiment 9
-[Experiment 9 source code](
+[Experiment 9 source code](https://github.com/Puvvada123/Data-structures/blob/main/9.%20Binary%20search)
 ![image](https://user-images.githubusercontent.com/113325192/214511102-d779a32d-67ac-4c45-8691-e85bcee269e2.png)
-
 ## Experiment 10
-[Experiment 10 source code](
+[Experiment 10 source code](https://github.com/Puvvada123/Data-structures/blob/main/10.%20Linked%20List%20Operations)
+![image](https://user-images.githubusercontent.com/113325192/214513035-95adef4e-9c66-41a2-afe1-8e727e93f23c.png)
 ## Experiment 11
 [Experiment 11 source code](
 ## Experiment 12
