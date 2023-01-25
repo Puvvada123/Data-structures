@@ -33,21 +33,29 @@
 [Experiment 10 source code](https://github.com/Puvvada123/Data-structures/blob/main/10.%20Linked%20List%20Operations)
 ![image](https://user-images.githubusercontent.com/113325192/214513035-95adef4e-9c66-41a2-afe1-8e727e93f23c.png)
 ## Experiment 11
-[Experiment 11 source code](
+[Experiment 11 source code](https://github.com/Puvvada123/Data-structures/blob/main/11.Stack%20Operation)
+![image](https://user-images.githubusercontent.com/113325192/214514401-f9ca51d1-80a5-4001-952e-5534b17fdadd.png)
 ## Experiment 12
-[Experiment 12 source code](
+[Experiment 12 source code](https://github.com/Puvvada123/Data-structures/blob/main/12.%20Stack%20Notation)
+![image](https://user-images.githubusercontent.com/113325192/214517240-ee1ee861-e035-482e-8128-d4e38e2d0889.png)
 ## Experiment 13
-[Experiment 13 source code](
+[Experiment 13 source code](https://github.com/Puvvada123/Data-structures/blob/main/13.Queue%20Operation)
+![image](https://user-images.githubusercontent.com/113325192/214514947-1f259970-d114-4640-8755-9dce95bd41c7.png)
 ## Experiment 14
-[Experiment 14 source code](
+[Experiment 14 source code](https://github.com/Puvvada123/Data-structures/blob/main/14.Tree%20Transversal)
+![image](https://user-images.githubusercontent.com/113325192/214518089-f9c9e7e2-5fcf-414f-b6e2-24e27a69c6ef.png)
 ## Experiment 15
-[Experiment 15 source code](
+[Experiment 15 source code](https://github.com/Puvvada123/Data-structures/blob/main/15.Hashing%20using%20Linear%20Probling)
+![image](https://user-images.githubusercontent.com/113325192/214518913-0e9fa9c7-d304-498c-a4d8-921cca79858e.png)
 ## Experiment 16
-[Experiment 16 source code](
+[Experiment 16 source code](https://github.com/Puvvada123/Data-structures/blob/main/16.Insertion%20Sort)
+![image](https://user-images.githubusercontent.com/113325192/214519470-5d904e13-70b0-4c89-972c-e87b8d34c9dc.png)
 ## Experiment 17
-[Experiment 17 source code](
+[Experiment 17 source code](https://github.com/Puvvada123/Data-structures/blob/main/17.Merge%20Sort)
+![image](https://user-images.githubusercontent.com/113325192/214520105-4e7eaa4f-7d41-44d2-8d5b-55a4139e1760.png)
 ## Experiment 18
-[Experiment 18 source code](
+[Experiment 18 source code](https://github.com/Puvvada123/Data-structures/blob/main/18.Quick%20Sort%20Number%20Of%20Series)
+![image](https://user-images.githubusercontent.com/113325192/214521403-4653d1f3-55c1-4ba0-9c81-4399cebc265c.png)
 ## Experiment 19
 [Experiment 19 source code](
 ## Experiment 20
