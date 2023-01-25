@@ -20,10 +20,12 @@
 ## Experiment 7
 [Experiment 7 source code](https://github.com/Puvvada123/Data-structures/blob/main/7(1)%20Insertion)
 ![image](https://user-images.githubusercontent.com/113325192/214256149-dabd7eb0-51cb-4ffd-aeb2-bdc4e2440ec2.png)
-
-
+## Experiment 7(2)
+[Experiment 7(2) source code](https://github.com/Puvvada123/Data-structures/blob/main/7(2)%20Deletion)
+![image](https://user-images.githubusercontent.com/113325192/214507980-27f0cb2c-f2fe-4b22-afa8-c76126c984e4.png)
 ## Experiment 8
-[Experiment 8 source code](
+[Experiment 8 source code](https://github.com/Puvvada123/Data-structures/blob/main/8.%20Linear%20search)
+![image](https://user-images.githubusercontent.com/113325192/214508720-0389addc-d21e-4657-8b4d-c7817ff5ceed.png)
 ## Experiment 9
 [Experiment 9 source code](
 ## Experiment 10
