@@ -75,4 +75,5 @@
 ![image](https://user-images.githubusercontent.com/113325192/215343625-17d7bdc2-3861-4fbe-affb-3b403ffbd412.png)
 ## Experiment 25
 [Experiment 25 source code](https://github.com/Puvvada123/Data-structures/blob/main/25.Kruskal%20algorithm)
+![image](https://user-images.githubusercontent.com/113325192/215344054-452caa3c-9d1f-4716-8520-4953caeec500.png)
 
