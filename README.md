@@ -57,17 +57,22 @@
 [Experiment 18 source code](https://github.com/Puvvada123/Data-structures/blob/main/18.Quick%20Sort%20Number%20Of%20Series)
 ![image](https://user-images.githubusercontent.com/113325192/214521403-4653d1f3-55c1-4ba0-9c81-4399cebc265c.png)
 ## Experiment 19
-[Experiment 19 source code](
+[Experiment 19 source code](https://github.com/Puvvada123/Data-structures/blob/main/19.Heap%20Sort)
+![image](https://user-images.githubusercontent.com/113325192/215342921-23b71a17-eb4b-4d76-a764-a1dcd76c8a92.png)
 ## Experiment 20
-[Experiment 20 source code](
+[Experiment 20 source code](https://github.com/Puvvada123/Data-structures/blob/main/20.AVL%20inseretion%20deletion%20searching)
+![image](https://user-images.githubusercontent.com/113325192/215343315-91c08a48-46fc-4f43-9951-22cf203c86e2.png)
 ## Experiment 21
-[Experiment 21 source code](
+[Experiment 21 source code](https://github.com/Puvvada123/Data-structures/blob/main/21.Breadth%20first%20search)
+![image](https://user-images.githubusercontent.com/113325192/215343336-deb7f828-0d4f-425f-a844-1a46a6559299.png)
 ## Experiment 22
-[Experiment 22 source code](
+[Experiment 22 source code](https://github.com/Puvvada123/Data-structures/blob/main/22.Depth%20first%20search)
+![image](https://user-images.githubusercontent.com/113325192/215343595-3efad8f4-b714-4402-a3db-4ac7a036fa35.png)
 ## Experiment 23
 [Experiment 23 source code](
 ## Experiment 24
-[Experiment 24 source code](
+[Experiment 24 source code](https://github.com/Puvvada123/Data-structures/blob/main/24.Minimum%20spanning%20tree%20using%20prims%20algorithm)
+![image](https://user-images.githubusercontent.com/113325192/215343625-17d7bdc2-3861-4fbe-affb-3b403ffbd412.png)
 ## Experiment 25
-[Experiment 25 source code](
+[Experiment 25 source code](https://github.com/Puvvada123/Data-structures/blob/main/25.Kruskal%20algorithm)
 
