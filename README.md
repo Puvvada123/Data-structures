@@ -69,7 +69,7 @@
 [Experiment 22 source code](https://github.com/Puvvada123/Data-structures/blob/main/22.Depth%20first%20search)
 ![image](https://user-images.githubusercontent.com/113325192/215343595-3efad8f4-b714-4402-a3db-4ac7a036fa35.png)
 ## Experiment 23
-[Experiment 23 source code](
+[Experiment 23 source code](https://github.com/Puvvada123/Data-structures/blob/main/23.Shortest%20path%20dijkstras%20algorthim)
 ## Experiment 24
 [Experiment 24 source code](https://github.com/Puvvada123/Data-structures/blob/main/24.Minimum%20spanning%20tree%20using%20prims%20algorithm)
 ![image](https://user-images.githubusercontent.com/113325192/215343625-17d7bdc2-3861-4fbe-affb-3b403ffbd412.png)
